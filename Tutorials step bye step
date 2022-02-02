@@ -1,0 +1,18 @@
+Step 1: Prepare your Django Project for I18n with Lokalise
+1.1 Setup New Project
+1.2 Enable I18n in Django
+1.3 Start a New Django App
+1.4 Create Translation Files in Django
+Step 2: Integrate with Lokalise
+2.1 Setup Lokalise CLI
+2.2 Configure the CLI tool
+2.3 Exchange Files between Lokalise and your Django Application
+Step 3: Set a Locale in Django
+3.1 Use Inbuilt Functions in Django
+3.2 Set Locale Settings Manually
+Translation of Text: Integrate with gettext in Python
+Lazy Translation with Django
+Django i18n in Templates
+Translations in Django with JavaScript
+Final Thoughts on Django I18n
+
