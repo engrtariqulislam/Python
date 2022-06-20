@@ -1,1 +1,81 @@
 
+Creating a Comment
+#This is a comment
+print("Hello, World!")
+
+Multi Line Comments
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
+
+
+Creating Variables
+
+x = 5
+y = "John"
+print(x)
+print(y)
+
+Casting
+x = str(3)
+y = int(3)
+z = float(3)
+
+print(x)
+print(y)
+print(z)
+
+Get the Type
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
+
+Single or Double Quotes?
+
+x = "John"
+print(x)
+#double quotes are the same as single quotes:
+x = 'John'
+print(x)
+
+
+Case-Sensitive
+a = 4
+A = "Sally"
+
+print(a)
+print(A)
+
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
